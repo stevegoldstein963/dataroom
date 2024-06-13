@@ -1,0 +1,27 @@
+/* Write Custom Css Here */
+
+.faqArea .section-tittle.section-tittle2 {
+    text-align: center;
+}
+
+.navbar-area .nav-container .navbar-collapse .navbar-nav li:nth-child(2) {
+    font-weight: 800;
+}
+
+
+input {
+    padding: 8px;
+}
+
+
+button {
+    padding: 10px;
+    background-color: #eb6149;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+
+.heroPadding {
+    padding: 25px;
+}

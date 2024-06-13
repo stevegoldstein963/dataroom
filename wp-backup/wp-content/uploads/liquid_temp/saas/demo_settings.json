@@ -1,0 +1,10 @@
+{
+	"home_page_title": "Homepage",
+	"menus": {
+		"primary": "Primary"
+	},
+	"content_plugins": {
+		"elementor": "Elementor",
+		"aihub-core": "AIHub Core"
+	}
+}
